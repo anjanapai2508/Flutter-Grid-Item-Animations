@@ -13,3 +13,4 @@ Following are the effects covered by the code :
 3. Use InkWell to detect when the user hovers over an item.
 4. Use CustomClipper to convert top-right round border into an arc when hovered over.
 5. Show a circle shaped container on top-left when hovered over.
+6. Show an opaque overlay with text when hovered over.
